@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+data/raw/*.csv
+data/processed/*.csv
+output/charts/*.png
+output/powerbi/*.csv
+nyc_jobs.db
+

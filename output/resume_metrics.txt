@@ -1,0 +1,13 @@
+Total records analyzed: 2,751
+Number of agencies: 61
+Number of job categories: 111
+Number of fields cleaned: 20
+Number of duplicates identified: 9
+Records with missing salary fields: 0
+Date range covered: 2025-09-04 to 2026-08-18
+
+Verified resume bullets:
+- Analyzed 2,700+ public job postings using Python and SQL to identify hiring trends across 61 agencies, 111 job categories, salary ranges, and posting periods.
+- Cleaned and standardized 20 job-posting attributes, identifying 9 exact duplicates and 0 records with missing salary components while validating dates and salary ranges.
+- Performed exploratory analysis across 61 agencies and 111 job categories to compare hiring volume, salary distributions, and workforce demand from 2025-09-04 to 2026-08-18.
+- Built a Power BI-ready reporting model with 5 KPI cards and 6 slicers covering agency, job category, salary band, posting period, experience level, and location.

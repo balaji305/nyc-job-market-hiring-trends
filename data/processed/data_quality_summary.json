@@ -1,0 +1,19 @@
+{
+  "source_rows": 2760,
+  "cleaned_rows": 2751,
+  "exact_duplicates_removed": 9,
+  "duplicate_posting_keys": 12,
+  "missing_job_titles": 0,
+  "missing_agencies": 0,
+  "missing_salary_components": 0,
+  "invalid_salary_ranges": 0,
+  "salary_midpoint_over_300k": 0,
+  "invalid_dates": {
+    "posting_date": 0,
+    "post_until": 0,
+    "posting_updated": 0,
+    "process_date": 0
+  },
+  "row_reconciliation_passed": true,
+  "fields_cleaned_or_standardized": 20
+}
